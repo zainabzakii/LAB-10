@@ -1,1 +1,3 @@
 # LAB-10
+
+This assignment focused on using the Support Vector Machine (SVM) algorithm to classify the Iris dataset. First, the dataset was loaded and explored using visualizations such as pairplots and KDE plots to understand the relationship between features. Then, the data was divided into training and testing sets before training the SVM model. After making predictions, the model performance was evaluated using a confusion matrix and classification report, which showed very high accuracy. Finally, GridSearchCV was used to tune the model parameters and improve performance slightly. Overall, the assignment demonstrated how SVM can be used effectively for classification problems.
